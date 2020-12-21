@@ -1,0 +1,7 @@
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\obj\Debug\AgeCalculatorService.csprojAssemblyReference.cache
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\obj\Debug\AgeCalculatorService.csproj.CoreCompileInputs.cache
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\bin\AgeCalculatorService.dll.config
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\bin\AgeCalculatorService.dll
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\bin\AgeCalculatorService.pdb
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\obj\Debug\AgeCalculatorService.dll
+C:\ws_prac\AgeCalculatorService\AgeCalculatorService\obj\Debug\AgeCalculatorService.pdb

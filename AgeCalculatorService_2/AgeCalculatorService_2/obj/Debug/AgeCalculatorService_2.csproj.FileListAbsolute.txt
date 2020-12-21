@@ -1,0 +1,4 @@
+C:\ws_prac\AgeCalculatorService_2\AgeCalculatorService_2\bin\AgeCalculatorService_2.dll
+C:\ws_prac\AgeCalculatorService_2\AgeCalculatorService_2\bin\AgeCalculatorService_2.pdb
+C:\ws_prac\AgeCalculatorService_2\AgeCalculatorService_2\obj\Debug\AgeCalculatorService_2.dll
+C:\ws_prac\AgeCalculatorService_2\AgeCalculatorService_2\obj\Debug\AgeCalculatorService_2.pdb
